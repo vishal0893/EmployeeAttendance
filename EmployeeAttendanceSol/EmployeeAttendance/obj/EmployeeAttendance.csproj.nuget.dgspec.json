@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\EmployeeAttendanceSol\\EmployeeAttendance\\EmployeeAttendance.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\EmployeeAttendanceSol\\EmployeeAttendance\\EmployeeAttendance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\EmployeeAttendanceSol\\EmployeeAttendance\\EmployeeAttendance.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\EmployeeAttendanceSol\\EmployeeAttendance\\EmployeeAttendance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAttendanceSol\\EmployeeAttendance\\EmployeeAttendance.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\EmployeeAttendanceSol\\EmployeeAttendance\\EmployeeAttendance.csproj",
         "projectName": "EmployeeAttendance",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAttendanceSol\\EmployeeAttendance\\EmployeeAttendance.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\EmployeeAttendanceSol\\EmployeeAttendance\\EmployeeAttendance.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAttendanceSol\\EmployeeAttendance\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\EmployeeAttendanceSol\\EmployeeAttendance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
